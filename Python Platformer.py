@@ -1,32 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                 #----------PYTHON-PLATFORMER----------#
                 #                                     #
                 # Copyright (c) Henrique Oliveira 2015#
@@ -38,15 +10,8 @@
                 #-------------------------------------#
 
 
-
-
-
-
-
-
-
-
-
+##Run this game: python3 "Python Platformer.py"
+##Install pygame if you don't have it: pip install pygame
 
 
 import pygame
